@@ -1,0 +1,12 @@
+Praktek 6
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/1_login.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/2_pelanggan.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/3_datadiri.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/4_gallery.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/5_event.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/6_kategori.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/7_barang.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/8_tambah.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/8_tambah_2.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/8_tambah_3.png)
+![Alt Text](https://github.com/DimasRafly/Praktek-6/blob/master/9_datapelanggan.png)
